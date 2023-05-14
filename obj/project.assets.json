@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mac\\.nuget\\packages\\": {}
+    "C:\\Users\\V Pan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mac\\source\\repos\\medical_examination\\medical_examination.csproj",
+      "projectUniqueName": "C:\\Users\\V Pan\\Source\\Repos\\medical_examination\\medical_examination.csproj",
       "projectName": "medical_examination",
-      "projectPath": "C:\\Users\\mac\\source\\repos\\medical_examination\\medical_examination.csproj",
-      "packagesPath": "C:\\Users\\mac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mac\\source\\repos\\medical_examination\\obj\\",
+      "projectPath": "C:\\Users\\V Pan\\Source\\Repos\\medical_examination\\medical_examination.csproj",
+      "packagesPath": "C:\\Users\\V Pan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\V Pan\\Source\\Repos\\medical_examination\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\V Pan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
