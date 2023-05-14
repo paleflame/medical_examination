@@ -1,8 +1,16 @@
 ﻿using System;
 
-public class Class1
+namespace medical_examination
 {
-	public Class1()
-	{
-	}
+    internal class AuthorizationService
+    {
+        public static void Create(string login)
+        {
+            
+        }
+        public static bool CheckPassword(string password)
+        {
+            return password;
+        }
+    }
 }

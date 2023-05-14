@@ -1,8 +1,9 @@
 ﻿using System;
 
-public class Class1
+namespace medical_examination
 {
-	public Class1()
-	{
-	}
+    internal class Role
+    {
+        public string Role;
+    }
 }

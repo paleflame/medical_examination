@@ -1,8 +1,18 @@
 ﻿using System;
 
-public class Class1
+namespace medical_examination
 {
-	public Class1()
-	{
-	}
+    internal class User
+    {
+        public string Name;
+        public string Login;
+        public string Email;
+        public string Password;
+        public Organization Organization;
+        public Role Role;
+        public static void Select(Dictionary<string,string[]> userFilter)
+        {
+            //void убрать, пока что не получилось добавить тип SqlDataReader
+        }
+    }
 }
