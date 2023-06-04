@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\V Pan\\source\\repos\\medical_examination\\medical_examination.csproj": {}
+    "C:\\Users\\V Pan\\Desktop\\medical_examination\\medical_examination.csproj": {}
   },
   "projects": {
-    "C:\\Users\\V Pan\\source\\repos\\medical_examination\\medical_examination.csproj": {
+    "C:\\Users\\V Pan\\Desktop\\medical_examination\\medical_examination.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\V Pan\\source\\repos\\medical_examination\\medical_examination.csproj",
+        "projectUniqueName": "C:\\Users\\V Pan\\Desktop\\medical_examination\\medical_examination.csproj",
         "projectName": "medical_examination",
-        "projectPath": "C:\\Users\\V Pan\\source\\repos\\medical_examination\\medical_examination.csproj",
+        "projectPath": "C:\\Users\\V Pan\\Desktop\\medical_examination\\medical_examination.csproj",
         "packagesPath": "C:\\Users\\V Pan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\V Pan\\source\\repos\\medical_examination\\obj\\",
+        "outputPath": "C:\\Users\\V Pan\\Desktop\\medical_examination\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\V Pan\\AppData\\Roaming\\NuGet\\NuGet.Config",
