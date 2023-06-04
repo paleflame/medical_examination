@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<<<<<<< HEAD
+    <ItemGroup>
+        <Compile Update="Form1.cs">
+            <SubType>Form</SubType>
+        </Compile>
+    </ItemGroup>
+</Project>
+=======
   <ItemGroup>
     <Compile Update="AuthorizationForm.cs">
       <SubType>Form</SubType>
@@ -54,3 +62,4 @@
     </Compile>
   </ItemGroup>
 </Project>
+>>>>>>> 37df9f954302f69a7451708c0cabf5aa7f75304b
