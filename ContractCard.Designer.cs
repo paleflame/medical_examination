@@ -28,146 +28,170 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button2 = new Button();
-            button1 = new Button();
-            textBox6 = new TextBox();
-            textBox12 = new TextBox();
-            textBox1 = new TextBox();
-            label6 = new Label();
-            label5 = new Label();
-            label4 = new Label();
-            textBox3 = new TextBox();
-            textBox2 = new TextBox();
-            label3 = new Label();
-            label2 = new Label();
-            label1 = new Label();
+            button13 = new Button();
+            button14 = new Button();
+            textBox34 = new TextBox();
+            textBox33 = new TextBox();
+            textBox32 = new TextBox();
+            label47 = new Label();
+            label46 = new Label();
+            label45 = new Label();
+            textBox31 = new TextBox();
+            textBox30 = new TextBox();
+            label44 = new Label();
+            label43 = new Label();
+            label42 = new Label();
+            label66 = new Label();
+            button24 = new Button();
             SuspendLayout();
             // 
-            // button2
+            // button13
             // 
-            button2.Location = new Point(36, 273);
-            button2.Name = "button2";
-            button2.Size = new Size(129, 27);
-            button2.TabIndex = 64;
-            button2.Text = "Сохранить";
-            button2.UseVisualStyleBackColor = true;
+            button13.Location = new Point(36, 273);
+            button13.Name = "button13";
+            button13.Size = new Size(129, 27);
+            button13.TabIndex = 64;
+            button13.Text = "Сохранить";
+            button13.UseVisualStyleBackColor = true;
             // 
-            // button1
+            // button14
             // 
-            button1.Location = new Point(178, 273);
-            button1.Name = "button1";
-            button1.Size = new Size(129, 27);
-            button1.TabIndex = 63;
-            button1.Text = "Изменить";
-            button1.UseVisualStyleBackColor = true;
+            button14.Location = new Point(214, 273);
+            button14.Name = "button14";
+            button14.Size = new Size(129, 27);
+            button14.TabIndex = 63;
+            button14.Text = "Изменить";
+            button14.UseVisualStyleBackColor = true;
             // 
-            // textBox6
+            // textBox34
             // 
-            textBox6.Location = new Point(178, 224);
-            textBox6.Name = "textBox6";
-            textBox6.Size = new Size(201, 23);
-            textBox6.TabIndex = 61;
+            textBox34.Location = new Point(214, 224);
+            textBox34.Name = "textBox34";
+            textBox34.Size = new Size(201, 23);
+            textBox34.TabIndex = 61;
             // 
-            // textBox12
+            // textBox33
             // 
-            textBox12.Location = new Point(178, 187);
-            textBox12.Name = "textBox12";
-            textBox12.Size = new Size(201, 23);
-            textBox12.TabIndex = 60;
+            textBox33.Location = new Point(214, 187);
+            textBox33.Name = "textBox33";
+            textBox33.Size = new Size(201, 23);
+            textBox33.TabIndex = 60;
             // 
-            // textBox1
+            // textBox32
             // 
-            textBox1.Location = new Point(178, 148);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(201, 23);
-            textBox1.TabIndex = 59;
+            textBox32.Location = new Point(214, 148);
+            textBox32.Name = "textBox32";
+            textBox32.Size = new Size(201, 23);
+            textBox32.TabIndex = 59;
             // 
-            // label6
+            // label47
             // 
-            label6.AutoSize = true;
-            label6.Location = new Point(36, 224);
-            label6.Name = "label6";
-            label6.Size = new Size(60, 15);
-            label6.TabIndex = 57;
-            label6.Text = "Заказчик:";
+            label47.AutoSize = true;
+            label47.Location = new Point(36, 224);
+            label47.Name = "label47";
+            label47.Size = new Size(60, 15);
+            label47.TabIndex = 57;
+            label47.Text = "Заказчик:";
             // 
-            // label5
+            // label46
             // 
-            label5.AutoSize = true;
-            label5.Location = new Point(36, 190);
-            label5.Name = "label5";
-            label5.Size = new Size(84, 15);
-            label5.TabIndex = 56;
-            label5.Text = "Исполнитель:";
+            label46.AutoSize = true;
+            label46.Location = new Point(36, 190);
+            label46.Name = "label46";
+            label46.Size = new Size(84, 15);
+            label46.TabIndex = 56;
+            label46.Text = "Исполнитель:";
             // 
-            // label4
+            // label45
             // 
-            label4.AutoSize = true;
-            label4.Location = new Point(36, 151);
-            label4.Name = "label4";
-            label4.Size = new Size(87, 15);
-            label4.TabIndex = 55;
-            label4.Text = "Дата действия:";
+            label45.AutoSize = true;
+            label45.Location = new Point(36, 151);
+            label45.Name = "label45";
+            label45.Size = new Size(87, 15);
+            label45.TabIndex = 55;
+            label45.Text = "Дата действия:";
             // 
-            // textBox3
+            // textBox31
             // 
-            textBox3.Location = new Point(178, 110);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(201, 23);
-            textBox3.TabIndex = 54;
+            textBox31.Location = new Point(214, 110);
+            textBox31.Name = "textBox31";
+            textBox31.Size = new Size(201, 23);
+            textBox31.TabIndex = 54;
             // 
-            // textBox2
+            // textBox30
             // 
-            textBox2.Location = new Point(178, 71);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(201, 23);
-            textBox2.TabIndex = 53;
+            textBox30.Location = new Point(214, 71);
+            textBox30.Name = "textBox30";
+            textBox30.Size = new Size(201, 23);
+            textBox30.TabIndex = 53;
             // 
-            // label3
+            // label44
             // 
-            label3.AutoSize = true;
-            label3.Location = new Point(36, 113);
-            label3.Name = "label3";
-            label3.Size = new Size(105, 15);
-            label3.TabIndex = 52;
-            label3.Text = "Дата заключения:";
+            label44.AutoSize = true;
+            label44.Location = new Point(36, 113);
+            label44.Name = "label44";
+            label44.Size = new Size(105, 15);
+            label44.TabIndex = 52;
+            label44.Text = "Дата заключения:";
             // 
-            // label2
+            // label43
             // 
-            label2.AutoSize = true;
-            label2.Location = new Point(36, 74);
-            label2.Name = "label2";
-            label2.Size = new Size(48, 15);
-            label2.TabIndex = 51;
-            label2.Text = "Номер:";
+            label43.AutoSize = true;
+            label43.Location = new Point(36, 74);
+            label43.Name = "label43";
+            label43.Size = new Size(48, 15);
+            label43.TabIndex = 51;
+            label43.Text = "Номер:";
             // 
-            // label1
+            // label42
             // 
-            label1.AutoSize = true;
-            label1.Location = new Point(36, 37);
-            label1.Name = "label1";
-            label1.Size = new Size(120, 15);
-            label1.TabIndex = 50;
-            label1.Text = "Наименования поля";
+            label42.AutoSize = true;
+            label42.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point);
+            label42.Location = new Point(36, 37);
+            label42.Name = "label42";
+            label42.Size = new Size(154, 19);
+            label42.TabIndex = 50;
+            label42.Text = "Наименования поля";
+            // 
+            // label66
+            // 
+            label66.AutoSize = true;
+            label66.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point);
+            label66.Location = new Point(214, 39);
+            label66.Name = "label66";
+            label66.Size = new Size(99, 19);
+            label66.TabIndex = 65;
+            label66.Text = "Примечание";
+            // 
+            // button24
+            // 
+            button24.Location = new Point(659, 411);
+            button24.Name = "button24";
+            button24.Size = new Size(129, 27);
+            button24.TabIndex = 66;
+            button24.Text = "Назад";
+            button24.UseVisualStyleBackColor = true;
             // 
             // ContractCard
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button2);
-            Controls.Add(button1);
-            Controls.Add(textBox6);
-            Controls.Add(textBox12);
-            Controls.Add(textBox1);
-            Controls.Add(label6);
-            Controls.Add(label5);
-            Controls.Add(label4);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(label3);
-            Controls.Add(label2);
-            Controls.Add(label1);
+            Controls.Add(button24);
+            Controls.Add(label66);
+            Controls.Add(button13);
+            Controls.Add(button14);
+            Controls.Add(textBox34);
+            Controls.Add(textBox33);
+            Controls.Add(textBox32);
+            Controls.Add(label47);
+            Controls.Add(label46);
+            Controls.Add(label45);
+            Controls.Add(textBox31);
+            Controls.Add(textBox30);
+            Controls.Add(label44);
+            Controls.Add(label43);
+            Controls.Add(label42);
             Name = "ContractCard";
             Text = "ContractCard";
             ResumeLayout(false);
@@ -176,18 +200,20 @@
 
         #endregion
 
-        private Button button2;
-        private Button button1;
-        private TextBox textBox6;
-        private TextBox textBox12;
-        private TextBox textBox1;
-        private Label label6;
-        private Label label5;
-        private Label label4;
-        private TextBox textBox3;
-        private TextBox textBox2;
-        private Label label3;
-        private Label label2;
-        private Label label1;
+        private Button button13;
+        private Button button14;
+        private TextBox textBox34;
+        private TextBox textBox33;
+        private TextBox textBox32;
+        private Label label47;
+        private Label label46;
+        private Label label45;
+        private TextBox textBox31;
+        private TextBox textBox30;
+        private Label label44;
+        private Label label43;
+        private Label label42;
+        private Label label66;
+        private Button button24;
     }
 }

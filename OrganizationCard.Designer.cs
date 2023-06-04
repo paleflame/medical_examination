@@ -28,187 +28,211 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button2 = new Button();
-            button1 = new Button();
-            textBox6 = new TextBox();
-            textBox12 = new TextBox();
-            textBox1 = new TextBox();
-            label7 = new Label();
-            label6 = new Label();
-            label5 = new Label();
-            label4 = new Label();
-            textBox3 = new TextBox();
-            textBox2 = new TextBox();
-            label3 = new Label();
-            label2 = new Label();
-            label1 = new Label();
-            label8 = new Label();
-            textBox4 = new TextBox();
-            comboBox1 = new ComboBox();
+            button9 = new Button();
+            button10 = new Button();
+            textBox21 = new TextBox();
+            textBox20 = new TextBox();
+            textBox19 = new TextBox();
+            label32 = new Label();
+            label31 = new Label();
+            label30 = new Label();
+            label29 = new Label();
+            textBox18 = new TextBox();
+            textBox17 = new TextBox();
+            label28 = new Label();
+            label27 = new Label();
+            label25 = new Label();
+            label33 = new Label();
+            textBox22 = new TextBox();
+            comboBox10 = new ComboBox();
+            label64 = new Label();
+            button22 = new Button();
             SuspendLayout();
             // 
-            // button2
+            // button9
             // 
-            button2.Location = new Point(21, 320);
-            button2.Name = "button2";
-            button2.Size = new Size(129, 27);
-            button2.TabIndex = 47;
-            button2.Text = "Сохранить";
-            button2.UseVisualStyleBackColor = true;
+            button9.Location = new Point(21, 320);
+            button9.Name = "button9";
+            button9.Size = new Size(129, 27);
+            button9.TabIndex = 47;
+            button9.Text = "Сохранить";
+            button9.UseVisualStyleBackColor = true;
             // 
-            // button1
+            // button10
             // 
-            button1.Location = new Point(235, 320);
-            button1.Name = "button1";
-            button1.Size = new Size(129, 27);
-            button1.TabIndex = 46;
-            button1.Text = "Изменить";
-            button1.UseVisualStyleBackColor = true;
+            button10.Location = new Point(235, 320);
+            button10.Name = "button10";
+            button10.Size = new Size(129, 27);
+            button10.TabIndex = 46;
+            button10.Text = "Изменить";
+            button10.UseVisualStyleBackColor = true;
             // 
-            // textBox6
+            // textBox21
             // 
-            textBox6.Location = new Point(235, 206);
-            textBox6.Name = "textBox6";
-            textBox6.Size = new Size(201, 23);
-            textBox6.TabIndex = 41;
+            textBox21.Location = new Point(235, 206);
+            textBox21.Name = "textBox21";
+            textBox21.Size = new Size(201, 23);
+            textBox21.TabIndex = 41;
             // 
-            // textBox12
+            // textBox20
             // 
-            textBox12.Location = new Point(235, 172);
-            textBox12.Name = "textBox12";
-            textBox12.Size = new Size(201, 23);
-            textBox12.TabIndex = 40;
+            textBox20.Location = new Point(235, 172);
+            textBox20.Name = "textBox20";
+            textBox20.Size = new Size(201, 23);
+            textBox20.TabIndex = 40;
             // 
-            // textBox1
+            // textBox19
             // 
-            textBox1.Location = new Point(235, 133);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(201, 23);
-            textBox1.TabIndex = 39;
+            textBox19.Location = new Point(235, 133);
+            textBox19.Name = "textBox19";
+            textBox19.Size = new Size(201, 23);
+            textBox19.TabIndex = 39;
             // 
-            // label7
+            // label32
             // 
-            label7.AutoSize = true;
-            label7.Location = new Point(21, 248);
-            label7.Name = "label7";
-            label7.Size = new Size(114, 15);
-            label7.TabIndex = 34;
-            label7.Text = "Населенный пункт:";
+            label32.AutoSize = true;
+            label32.Location = new Point(21, 248);
+            label32.Name = "label32";
+            label32.Size = new Size(114, 15);
+            label32.TabIndex = 34;
+            label32.Text = "Населенный пункт:";
             // 
-            // label6
+            // label31
             // 
-            label6.AutoSize = true;
-            label6.Location = new Point(21, 209);
-            label6.Name = "label6";
-            label6.Size = new Size(141, 15);
-            label6.TabIndex = 33;
-            label6.Text = "ИП/Юридическое лицо:";
+            label31.AutoSize = true;
+            label31.Location = new Point(21, 209);
+            label31.Name = "label31";
+            label31.Size = new Size(141, 15);
+            label31.TabIndex = 33;
+            label31.Text = "ИП/Юридическое лицо:";
             // 
-            // label5
+            // label30
             // 
-            label5.AutoSize = true;
-            label5.Location = new Point(21, 175);
-            label5.Name = "label5";
-            label5.Size = new Size(116, 15);
-            label5.TabIndex = 32;
-            label5.Text = "Адрес регистрации:";
+            label30.AutoSize = true;
+            label30.Location = new Point(21, 175);
+            label30.Name = "label30";
+            label30.Size = new Size(116, 15);
+            label30.TabIndex = 32;
+            label30.Text = "Адрес регистрации:";
             // 
-            // label4
+            // label29
             // 
-            label4.AutoSize = true;
-            label4.Location = new Point(21, 136);
-            label4.Name = "label4";
-            label4.Size = new Size(35, 15);
-            label4.TabIndex = 31;
-            label4.Text = "КПП:";
+            label29.AutoSize = true;
+            label29.Location = new Point(21, 136);
+            label29.Name = "label29";
+            label29.Size = new Size(35, 15);
+            label29.TabIndex = 31;
+            label29.Text = "КПП:";
             // 
-            // textBox3
+            // textBox18
             // 
-            textBox3.Location = new Point(235, 90);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(201, 23);
-            textBox3.TabIndex = 30;
+            textBox18.Location = new Point(235, 90);
+            textBox18.Name = "textBox18";
+            textBox18.Size = new Size(201, 23);
+            textBox18.TabIndex = 30;
             // 
-            // textBox2
+            // textBox17
             // 
-            textBox2.Location = new Point(235, 56);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(201, 23);
-            textBox2.TabIndex = 29;
+            textBox17.Location = new Point(235, 56);
+            textBox17.Name = "textBox17";
+            textBox17.Size = new Size(201, 23);
+            textBox17.TabIndex = 29;
             // 
-            // label3
+            // label28
             // 
-            label3.AutoSize = true;
-            label3.Location = new Point(21, 98);
-            label3.Name = "label3";
-            label3.Size = new Size(37, 15);
-            label3.TabIndex = 28;
-            label3.Text = "ИНН:";
+            label28.AutoSize = true;
+            label28.Location = new Point(21, 98);
+            label28.Name = "label28";
+            label28.Size = new Size(37, 15);
+            label28.TabIndex = 28;
+            label28.Text = "ИНН:";
             // 
-            // label2
+            // label27
             // 
-            label2.AutoSize = true;
-            label2.Location = new Point(21, 59);
-            label2.Name = "label2";
-            label2.Size = new Size(211, 15);
-            label2.TabIndex = 27;
-            label2.Text = "Полное наименование организации:";
+            label27.AutoSize = true;
+            label27.Location = new Point(21, 59);
+            label27.Name = "label27";
+            label27.Size = new Size(211, 15);
+            label27.TabIndex = 27;
+            label27.Text = "Полное наименование организации:";
             // 
-            // label1
+            // label25
             // 
-            label1.AutoSize = true;
-            label1.Location = new Point(21, 22);
-            label1.Name = "label1";
-            label1.Size = new Size(120, 15);
-            label1.TabIndex = 26;
-            label1.Text = "Наименования поля";
+            label25.AutoSize = true;
+            label25.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point);
+            label25.Location = new Point(21, 22);
+            label25.Name = "label25";
+            label25.Size = new Size(154, 19);
+            label25.TabIndex = 26;
+            label25.Text = "Наименования поля";
             // 
-            // label8
+            // label33
             // 
-            label8.AutoSize = true;
-            label8.Location = new Point(21, 287);
-            label8.Name = "label8";
-            label8.Size = new Size(104, 15);
-            label8.TabIndex = 48;
-            label8.Text = "Тип организации:";
+            label33.AutoSize = true;
+            label33.Location = new Point(21, 287);
+            label33.Name = "label33";
+            label33.Size = new Size(104, 15);
+            label33.TabIndex = 48;
+            label33.Text = "Тип организации:";
             // 
-            // textBox4
+            // textBox22
             // 
-            textBox4.Location = new Point(235, 279);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(201, 23);
-            textBox4.TabIndex = 49;
+            textBox22.Location = new Point(235, 279);
+            textBox22.Name = "textBox22";
+            textBox22.Size = new Size(201, 23);
+            textBox22.TabIndex = 49;
             // 
-            // comboBox1
+            // comboBox10
             // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(235, 245);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(201, 23);
-            comboBox1.TabIndex = 50;
+            comboBox10.FormattingEnabled = true;
+            comboBox10.Location = new Point(235, 245);
+            comboBox10.Name = "comboBox10";
+            comboBox10.Size = new Size(201, 23);
+            comboBox10.TabIndex = 50;
+            // 
+            // label64
+            // 
+            label64.AutoSize = true;
+            label64.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point);
+            label64.Location = new Point(235, 24);
+            label64.Name = "label64";
+            label64.Size = new Size(99, 19);
+            label64.TabIndex = 51;
+            label64.Text = "Примечание";
+            // 
+            // button22
+            // 
+            button22.Location = new Point(659, 411);
+            button22.Name = "button22";
+            button22.Size = new Size(129, 27);
+            button22.TabIndex = 52;
+            button22.Text = "Назад";
+            button22.UseVisualStyleBackColor = true;
             // 
             // OrganizationCard
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(comboBox1);
-            Controls.Add(textBox4);
-            Controls.Add(label8);
-            Controls.Add(button2);
-            Controls.Add(button1);
-            Controls.Add(textBox6);
-            Controls.Add(textBox12);
-            Controls.Add(textBox1);
-            Controls.Add(label7);
-            Controls.Add(label6);
-            Controls.Add(label5);
-            Controls.Add(label4);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(label3);
-            Controls.Add(label2);
-            Controls.Add(label1);
+            Controls.Add(button22);
+            Controls.Add(label64);
+            Controls.Add(comboBox10);
+            Controls.Add(textBox22);
+            Controls.Add(label33);
+            Controls.Add(button9);
+            Controls.Add(button10);
+            Controls.Add(textBox21);
+            Controls.Add(textBox20);
+            Controls.Add(textBox19);
+            Controls.Add(label32);
+            Controls.Add(label31);
+            Controls.Add(label30);
+            Controls.Add(label29);
+            Controls.Add(textBox18);
+            Controls.Add(textBox17);
+            Controls.Add(label28);
+            Controls.Add(label27);
+            Controls.Add(label25);
             Name = "OrganizationCard";
             Text = "OrganizationCard";
             ResumeLayout(false);
@@ -217,22 +241,24 @@
 
         #endregion
 
-        private Button button2;
-        private Button button1;
-        private TextBox textBox6;
-        private TextBox textBox12;
-        private TextBox textBox1;
-        private Label label7;
-        private Label label6;
-        private Label label5;
-        private Label label4;
-        private TextBox textBox3;
-        private TextBox textBox2;
-        private Label label3;
-        private Label label2;
-        private Label label1;
-        private Label label8;
-        private TextBox textBox4;
-        private ComboBox comboBox1;
+        private Button button9;
+        private Button button10;
+        private TextBox textBox21;
+        private TextBox textBox20;
+        private TextBox textBox19;
+        private Label label32;
+        private Label label31;
+        private Label label30;
+        private Label label29;
+        private TextBox textBox18;
+        private TextBox textBox17;
+        private Label label28;
+        private Label label27;
+        private Label label25;
+        private Label label33;
+        private TextBox textBox22;
+        private ComboBox comboBox10;
+        private Label label64;
+        private Button button22;
     }
 }
