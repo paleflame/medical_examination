@@ -33,3 +33,9 @@ C:\Users\V Pan\Desktop\medical_examination\bin\Debug\net6.0-windows\medical_exam
 C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.genruntimeconfig.cache
 C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\ref\medical_examination.dll
 C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.AuthorizationForm.resources
+C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetsListForm.resources
+C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.OrganizationsListForm.resources
+C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.ContractsListForm.resources
+C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.DiseasesByTownForm.resources
+C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.Properties.Resources.resources
+C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.MainMenuForm.resources
