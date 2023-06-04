@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace medical_examination
 {
-    internal class Organization
+    public class Organization
     {
     }
 }
