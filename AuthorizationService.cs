@@ -10,7 +10,7 @@ namespace medical_examination
         }
         public static bool CheckPassword(string password)
         {
-            return password;
+            return true;
         }
     }
 }
