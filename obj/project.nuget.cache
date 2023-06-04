@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "C:\\Users\\imITProger\\Source\\Repos\\paleflame\\medical_examination\\medical_examination.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\imITProger\\Source\\Repos\\paleflame\\medical_examination\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
