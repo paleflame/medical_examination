@@ -1,15 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "5eR0cRIHODQVEKKtP4jmNLNh9iYrgIKdkeFrCvsvVSkcA6WqVP6I4Mf9iEMvAQX8I4wtev4eH4BvewBmDJN3wg==",
+<<<<<<< HEAD
+  "dgSpecHash": "KH4Q65sLDlfzhziyi548yx5M+ZZ8snGX0zXfpFr9EtBjp7oS9zPbsZxfs9c77w3+s5WY5/v86azz7S3/L5Nv2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\imITProger\\Source\\Repos\\paleflame\\medical_examination\\medical_examination.csproj",
+  "projectFilePath": "C:\\Users\\V Pan\\Desktop\\New folder\\medical_examination\\medical_examination.csproj",
+=======
+  "dgSpecHash": "OBBKexQ2xb96aYUrLGF+2b/NGa2a0TbO9WN7Ae9diwjuunU+orJEf/7rJWKkuXVzS2V/TyTavqpS+QP55usjVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ero\\Source\\Repos\\paleflame\\medical_examination\\medical_examination.csproj",
+>>>>>>> PetrosyanErik
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Ошибка чтения файла кэша C:\\Users\\imITProger\\Source\\Repos\\paleflame\\medical_examination\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

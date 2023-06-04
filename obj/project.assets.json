@@ -8,31 +8,42 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\imITProger\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Ero\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\imITProger\\Source\\Repos\\paleflame\\medical_examination\\medical_examination.csproj",
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\V Pan\\Desktop\\New folder\\medical_examination\\medical_examination.csproj",
       "projectName": "medical_examination",
-      "projectPath": "C:\\Users\\imITProger\\Source\\Repos\\paleflame\\medical_examination\\medical_examination.csproj",
-      "packagesPath": "C:\\Users\\imITProger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\imITProger\\Source\\Repos\\paleflame\\medical_examination\\obj\\",
+      "projectPath": "C:\\Users\\V Pan\\Desktop\\New folder\\medical_examination\\medical_examination.csproj",
+      "packagesPath": "C:\\Users\\V Pan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\V Pan\\Desktop\\New folder\\medical_examination\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Ero\\Source\\Repos\\paleflame\\medical_examination\\medical_examination.csproj",
+      "projectName": "medical_examination",
+      "projectPath": "C:\\Users\\Ero\\Source\\Repos\\paleflame\\medical_examination\\medical_examination.csproj",
+      "packagesPath": "C:\\Users\\Ero\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ero\\Source\\Repos\\paleflame\\medical_examination\\obj\\",
+>>>>>>> PetrosyanErik
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\imITProger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ero\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows7.0"
+        "net6.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,7 +67,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -68,16 +80,8 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Ошибка чтения файла кэша C:\\Users\\imITProger\\Source\\Repos\\paleflame\\medical_examination\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
