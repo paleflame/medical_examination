@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 C:\Users\mac\source\repos\medical_examination\bin\Debug\net6.0-windows\medical_examination.exe
 C:\Users\mac\source\repos\medical_examination\bin\Debug\net6.0-windows\medical_examination.deps.json
 C:\Users\mac\source\repos\medical_examination\bin\Debug\net6.0-windows\medical_examination.runtimeconfig.json
@@ -17,11 +18,33 @@ C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\medical_e
 C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\ref\medical_examination.dll
 C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.AssemblyReference.cache
 C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.Form1.resources
+=======
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.AssemblyReference.cache
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.AuthorizationForm.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.ContractAddCard.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.ContractCard.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.ContractEditingForms.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.ContractsListForm.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.DiseasesByTownForm.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.Form1.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.MainMenuForm.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.OrganizationAddCard.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.OrganizationCard.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.OrganizationEditingForms.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.OrganizationsListForm.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetAddCard.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetCard.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetCheckupAddForms.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetEditingForms.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetsListForm.resources
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.Properties.Resources.resources
+>>>>>>> Stashed changes
 C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.GenerateResource.cache
 C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.AssemblyInfoInputs.cache
 C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.AssemblyInfo.cs
 C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.CoreCompileInputs.cache
+<<<<<<< Updated upstream
 C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.dll
 C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\refint\medical_examination.dll
 C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.pdb
@@ -36,3 +59,15 @@ C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-
 C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.OrganizationEditingForms.resources
 C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetCheckupAddForms.resources
 C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetEditingForms.resources
+=======
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\bin\Debug\net6.0-windows\medical_examination.exe
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\bin\Debug\net6.0-windows\medical_examination.deps.json
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\bin\Debug\net6.0-windows\medical_examination.runtimeconfig.json
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\bin\Debug\net6.0-windows\medical_examination.dll
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\bin\Debug\net6.0-windows\medical_examination.pdb
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.dll
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\refint\medical_examination.dll
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.pdb
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.genruntimeconfig.cache
+C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\ref\medical_examination.dll
+>>>>>>> Stashed changes
