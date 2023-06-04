@@ -1,65 +1,28 @@
-C:\Users\mac\source\repos\medical_examination\bin\Debug\net6.0-windows\medical_examination.exe
-C:\Users\mac\source\repos\medical_examination\bin\Debug\net6.0-windows\medical_examination.deps.json
-C:\Users\mac\source\repos\medical_examination\bin\Debug\net6.0-windows\medical_examination.runtimeconfig.json
-C:\Users\mac\source\repos\medical_examination\bin\Debug\net6.0-windows\medical_examination.dll
-C:\Users\mac\source\repos\medical_examination\bin\Debug\net6.0-windows\medical_examination.pdb
-C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.AssemblyReference.cache
-C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\medical_examination.Form1.resources
-C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.GenerateResource.cache
-C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\medical_examination.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\medical_examination.AssemblyInfoInputs.cache
-C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\medical_examination.AssemblyInfo.cs
-C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.CoreCompileInputs.cache
-C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\medical_examination.dll
-C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\refint\medical_examination.dll
-C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\medical_examination.pdb
-C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\medical_examination.genruntimeconfig.cache
-C:\Users\mac\source\repos\medical_examination\obj\Debug\net6.0-windows\ref\medical_examination.dll
-<<<<<<< HEAD
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.AssemblyReference.cache
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.Form1.resources
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.GenerateResource.cache
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.AssemblyInfoInputs.cache
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.AssemblyInfo.cs
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.CoreCompileInputs.cache
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.dll
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\refint\medical_examination.dll
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.pdb
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\bin\Debug\net6.0-windows\medical_examination.exe
-C:\Users\imITProger\source\repos\paleflame\medical_examination\bin\Debug\net6.0-windows\medical_examination.deps.json
-C:\Users\imITProger\source\repos\paleflame\medical_examination\bin\Debug\net6.0-windows\medical_examination.runtimeconfig.json
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\bin\Debug\net6.0-windows\medical_examination.dll
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\bin\Debug\net6.0-windows\medical_examination.pdb
-C:\Users\imITProger\source\repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.genruntimeconfig.cache
-C:\Users\imITProger\source\repos\paleflame\medical_examination\obj\Debug\net6.0-windows\ref\medical_examination.dll
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.ContractEditingForms.resources
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.OrganizationEditingForms.resources
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetCheckupAddForms.resources
-C:\Users\imITProger\Source\Repos\paleflame\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetEditingForms.resources
-=======
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.AssemblyReference.cache
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.Form1.resources
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.GenerateResource.cache
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.AssemblyInfoInputs.cache
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.AssemblyInfo.cs
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.CoreCompileInputs.cache
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.dll
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\refint\medical_examination.dll
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.pdb
-C:\Users\V Pan\Desktop\medical_examination\bin\Debug\net6.0-windows\medical_examination.exe
-C:\Users\V Pan\Desktop\medical_examination\bin\Debug\net6.0-windows\medical_examination.deps.json
-C:\Users\V Pan\Desktop\medical_examination\bin\Debug\net6.0-windows\medical_examination.runtimeconfig.json
-C:\Users\V Pan\Desktop\medical_examination\bin\Debug\net6.0-windows\medical_examination.dll
-C:\Users\V Pan\Desktop\medical_examination\bin\Debug\net6.0-windows\medical_examination.pdb
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.genruntimeconfig.cache
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\ref\medical_examination.dll
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.AuthorizationForm.resources
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetsListForm.resources
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.OrganizationsListForm.resources
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.ContractsListForm.resources
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.DiseasesByTownForm.resources
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.Properties.Resources.resources
-C:\Users\V Pan\Desktop\medical_examination\obj\Debug\net6.0-windows\medical_examination.MainMenuForm.resources
->>>>>>> c4f4e26fed4c86233d18f7bc626eaddd38cb12c6
+C:\Users\V Pan\Desktop\New folder\medical_examination\bin\Debug\net6.0-windows\medical_examination.exe
+C:\Users\V Pan\Desktop\New folder\medical_examination\bin\Debug\net6.0-windows\medical_examination.deps.json
+C:\Users\V Pan\Desktop\New folder\medical_examination\bin\Debug\net6.0-windows\medical_examination.runtimeconfig.json
+C:\Users\V Pan\Desktop\New folder\medical_examination\bin\Debug\net6.0-windows\medical_examination.dll
+C:\Users\V Pan\Desktop\New folder\medical_examination\bin\Debug\net6.0-windows\medical_examination.pdb
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.AssemblyReference.cache
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.AuthorizationForm.resources
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.ContractEditingForms.resources
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.ContractsListForm.resources
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.DiseasesByTownForm.resources
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.Form1.resources
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.MainMenuForm.resources
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.OrganizationEditingForms.resources
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.OrganizationsListForm.resources
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetCheckupAddForms.resources
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetEditingForms.resources
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.PetsListForm.resources
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.Properties.Resources.resources
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.GenerateResource.cache
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.AssemblyInfoInputs.cache
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.AssemblyInfo.cs
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.CoreCompileInputs.cache
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.dll
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\refint\medical_examination.dll
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.pdb
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.genruntimeconfig.cache
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\ref\medical_examination.dll
