@@ -29,10 +29,10 @@ namespace medical_examination
                              );
         }
 
-        public static IDefinePermissions GetPM(User user)
+        /*public static IDefinePermissions GetPM(User user)
         {
             return PMFactory.Get(user);
-        }
+        }*/
 
     }
 }

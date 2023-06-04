@@ -1,8 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Update="AuthorizationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ContractAddCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ContractCard.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="ContractEditingForms.cs">
@@ -17,41 +22,34 @@
     <Compile Update="MainMenuForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="OrganizationAddCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrganizationCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="OrganizationEditingForms.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="OrganizationsListForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PetCheckupAddForms.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="PetEditingForms.cs">
-=======
-    <Compile Update="ContractAddCard.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="ContractCard.cs">
->>>>>>> PetrosyanErik
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-<<<<<<< HEAD
-    <Compile Update="PetsListForm.cs">
-=======
-    <Compile Update="OrganizationAddCard.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="OrganizationCard.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="PetAddCard.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="PetCard.cs">
->>>>>>> PetrosyanErik
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PetCheckupAddForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PetEditingForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PetsListForm.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
