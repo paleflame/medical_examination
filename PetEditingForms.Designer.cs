@@ -282,7 +282,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 385);
+            this.ClientSize = new System.Drawing.Size(796, 391);
             this.Controls.Add(this.HomeBtn);
             this.Controls.Add(this.PhotoBox);
             this.Controls.Add(this.SignsOfTheOwnerTxt);
