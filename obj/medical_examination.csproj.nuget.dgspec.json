@@ -1,20 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mac\\source\\repos\\medical_examination\\medical_examination.csproj": {}
+<<<<<<< HEAD
+    "C:\\Users\\V Pan\\Desktop\\New folder\\medical_examination\\medical_examination.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mac\\source\\repos\\medical_examination\\medical_examination.csproj": {
+    "C:\\Users\\V Pan\\Desktop\\New folder\\medical_examination\\medical_examination.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mac\\source\\repos\\medical_examination\\medical_examination.csproj",
+        "projectUniqueName": "C:\\Users\\V Pan\\Desktop\\New folder\\medical_examination\\medical_examination.csproj",
         "projectName": "medical_examination",
-        "projectPath": "C:\\Users\\mac\\source\\repos\\medical_examination\\medical_examination.csproj",
-        "packagesPath": "C:\\Users\\mac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mac\\source\\repos\\medical_examination\\obj\\",
+        "projectPath": "C:\\Users\\V Pan\\Desktop\\New folder\\medical_examination\\medical_examination.csproj",
+        "packagesPath": "C:\\Users\\V Pan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\V Pan\\Desktop\\New folder\\medical_examination\\obj\\",
+=======
+    "C:\\Users\\Ero\\Source\\Repos\\paleflame\\medical_examination\\medical_examination.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ero\\Source\\Repos\\paleflame\\medical_examination\\medical_examination.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ero\\Source\\Repos\\paleflame\\medical_examination\\medical_examination.csproj",
+        "projectName": "medical_examination",
+        "projectPath": "C:\\Users\\Ero\\Source\\Repos\\paleflame\\medical_examination\\medical_examination.csproj",
+        "packagesPath": "C:\\Users\\Ero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ero\\Source\\Repos\\paleflame\\medical_examination\\obj\\",
+>>>>>>> PetrosyanErik
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +41,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +78,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

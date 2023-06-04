@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "N1G0J0QvPWSbqHq2QP0IYKe0bduqnr3keTklRiUUZ8dMQyNe+5NqATZ1+jGfvKIBjgFCQ0j3WLjrE9p1tCIb/Q==",
+<<<<<<< HEAD
+  "dgSpecHash": "KH4Q65sLDlfzhziyi548yx5M+ZZ8snGX0zXfpFr9EtBjp7oS9zPbsZxfs9c77w3+s5WY5/v86azz7S3/L5Nv2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mac\\source\\repos\\medical_examination\\medical_examination.csproj",
+  "projectFilePath": "C:\\Users\\V Pan\\Desktop\\New folder\\medical_examination\\medical_examination.csproj",
+=======
+  "dgSpecHash": "OBBKexQ2xb96aYUrLGF+2b/NGa2a0TbO9WN7Ae9diwjuunU+orJEf/7rJWKkuXVzS2V/TyTavqpS+QP55usjVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ero\\Source\\Repos\\paleflame\\medical_examination\\medical_examination.csproj",
+>>>>>>> PetrosyanErik
   "expectedPackageFiles": [],
   "logs": []
 }
