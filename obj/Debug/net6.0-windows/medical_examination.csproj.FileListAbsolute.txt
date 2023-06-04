@@ -1,3 +1,8 @@
+C:\Users\V Pan\Desktop\New folder\medical_examination\bin\Debug\net6.0-windows\medical_examination.exe
+C:\Users\V Pan\Desktop\New folder\medical_examination\bin\Debug\net6.0-windows\medical_examination.deps.json
+C:\Users\V Pan\Desktop\New folder\medical_examination\bin\Debug\net6.0-windows\medical_examination.runtimeconfig.json
+C:\Users\V Pan\Desktop\New folder\medical_examination\bin\Debug\net6.0-windows\medical_examination.dll
+C:\Users\V Pan\Desktop\New folder\medical_examination\bin\Debug\net6.0-windows\medical_examination.pdb
 C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.AssemblyReference.cache
 C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.AuthorizationForm.resources
 C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.ContractAddCard.resources
@@ -22,3 +27,8 @@ C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\m
 C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.AssemblyInfoInputs.cache
 C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.AssemblyInfo.cs
 C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.csproj.CoreCompileInputs.cache
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.dll
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\refint\medical_examination.dll
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.pdb
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\medical_examination.genruntimeconfig.cache
+C:\Users\V Pan\Desktop\New folder\medical_examination\obj\Debug\net6.0-windows\ref\medical_examination.dll

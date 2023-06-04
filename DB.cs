@@ -11,6 +11,13 @@ namespace medical_examination
     {
         public static string connectionAddress = "";
 
+        public static void DeleteCard(Pet pet)
+        {
+            dataBase.Pet.Remove(pet);
+            dataBase.SaveCahges();
+        }
+
+
         // тут должен быть метод поиска пользователя в БД
         public static Dictionary<string, string> GetUserData(string login, string password)
         {

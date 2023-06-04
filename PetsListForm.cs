@@ -16,5 +16,16 @@ namespace medical_examination
         {
             InitializeComponent();
         }
+
+        private void DeleteRow()
+        {
+            string pet = dataGridView1.CurrentCell.Value.ToString();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DeleteRow();
+        }
     }
 }
