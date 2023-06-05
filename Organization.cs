@@ -10,19 +10,19 @@ namespace medical_examination
     public class Organization
     {
         public string Name { get; }
-        public int INN { get; }
-        public int KPP { get; }
+        public string INN { get; }
+        public string KPP { get; }
         public string Address { get; }
 
         public string Type { get; }
-        public bool LegalEntity { get; }
+        public string LegalEntity { get; }
 
         public Organization(string name,
-                            int inn, 
-                            int kpp, 
+                            string inn, 
+                            string kpp, 
                             string address, 
                             string type, 
-                            bool legalEntity)
+                            string legalEntity)
         {
             Name = name;
             INN = inn;

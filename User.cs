@@ -10,22 +10,23 @@ namespace medical_examination
     {
         public string Name { get; }
         //public string Email { get; }
-       // public string Password { get; }
+        // public string Password { get; }
         public string Role { get; }
-        //public Organization Organization { get; }
-       
-        public User(string name, 
-               //     string email, 
-                //    string password, 
-                    string role
-                    //Organization organization
-            ) 
-        { 
+        public Organization Organization { get; }
+
+        public User(string name,
+                    //     string email, 
+                    //    string password, 
+                    string role,
+                    Organization organization
+            )
+        {
             Name = name;
             //Email = email;
-           // Password = password;
+            // Password = password;
             Role = role;
-            //Organization = organization;
-          
+            Organization = organization;
+
         }
+    }
 }
