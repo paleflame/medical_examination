@@ -33,9 +33,9 @@ namespace medical_examination
             //void убрать, пока что не получилось добавить тип SqlDataReader
         }
 
-        public static void Delete(long cardNumber)
+        public static void DeleteCard(Pet pet)
         {
-            //void убрать, пока что не получилось добавить тип SqlDataReader
+            DB.DeleteCard(pet);
         }
 
         public static void Update(long id, string[] data)

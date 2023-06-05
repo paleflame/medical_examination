@@ -45,10 +45,10 @@ namespace medical_examination
 
 
             };
-            if (roles.Contains())
+            /*if (roles.Contains())
             {
 
-            }
+            }*/
 
         }
 
