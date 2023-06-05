@@ -39,35 +39,11 @@ namespace medical_examination
             return user;
         }
 
-        /public static IDefinePermissions GetPM(User user)
+        public static IDefinePermissions GetPM(User user)
         {
             return PMFactory.Get(user);
-        }/
+        }
 
     }
-    class DataBase
-    {
-        SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-RDHJ1N2\SQLEXPRESS;Initial Catalog=test;Integrated Security=True");
-
-        public void openConnection()
-        {
-            if (conn.State == System.Data.ConnectionState.Closed)
-            {
-                conn.Open();
-            }
-        }
-
-        public void closeConnection()
-        {
-            if (conn.State == System.Data.ConnectionState.Open)
-            {
-                conn.Close();
-            }
-        }
-
-        public SqlConnection getConnection()
-        {
-            return conn;
-        }
-    }
+   
 }
