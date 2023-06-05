@@ -12,6 +12,7 @@ namespace medical_examination
 {
     public partial class AuthorizationForm : Form
     {
+
         public AuthorizationForm()
         {
             InitializeComponent();
@@ -28,6 +29,16 @@ namespace medical_examination
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+            var user = AuthorisationService.Login(textBox1.Text,textBox2.Text);
+            if (user != null) {
+                
+            }
+            else {
+            }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
